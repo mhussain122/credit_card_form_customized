@@ -1,6 +1,6 @@
 name: credit_card_form_customized
 description: Flutter Credit/Debit Card Form.
-version: 0.0.2
+version: 0.0.4
 homepage: https://github.com/mhussain122/credit_card_form_customized
 
 environment:
@@ -8,7 +8,7 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
-  popover: ^0.2.8+2
+  popover: 0.2.6
   flutter:
     sdk: flutter
 
