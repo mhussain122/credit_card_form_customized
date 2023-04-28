@@ -1,7 +1,7 @@
 library credit_card_form;
 
-import 'package:credit_card_form/utils.dart';
-import 'package:credit_card_form/validators.dart';
+import 'package:credit_card_form_customized/utils.dart';
+import 'package:credit_card_form_customized/validators.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 

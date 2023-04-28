@@ -1,4 +1,4 @@
-import 'package:credit_card_form/credit_card_form.dart';
+import 'package:credit_card_form_customized/credit_card_form.dart';
 import 'package:flutter/services.dart';
 
 class CardExpirationFormatter extends TextInputFormatter {
