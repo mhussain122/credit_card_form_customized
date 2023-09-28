@@ -143,7 +143,7 @@ class _CreditCardFormState extends State<CreditCardForm> {
             padding: const EdgeInsets.all(8),
             child: Image.asset(
               'images/${cardImg['img']}',
-              package: 'credit_card_form',
+              package: 'credit_card_form_customized',
               width: cardImg['width'] as double?,
             ),
           ),
