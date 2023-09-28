@@ -34,9 +34,9 @@ class CustomToolTip extends StatelessWidget {
                                   fontWeight: FontWeight.w600,
                                   fontFamily: 'Nunito')),
                       Image.asset(
-                        'images/cvvcode.png',
-                        package: 'credit_card_form',
-                        height: 80,
+                        'images/cvc.png',
+                        package: 'credit_card_form_customized',
+                        height: 40,
                       )
                     ],
                   ),
